@@ -37,3 +37,13 @@
 
 **Link(s) to work**
 1. [Basic HTML & HTML 5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+
+### Day 2: June 25th, Tuesday
+
+**Today's Progress**: I've gone through more exercises on FreeCodeCamp.
+
+**Thoughts** Still working on basics to Html & Html 5. I've already completed these challenges in the past but I thought it good as a refresher. Created a Code Pen site to record my progress and build a site with my new skills as I learn. Right now I'm kind of slow moving as I warm my self up to coding on a daily basis. I think as time progresses I will spend more time coding, complete more challenges and build bigger projects. So glad I'm doing this.
+
+**Link(s) to work**
+1. [Basic HTML & HTML 5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+2. (Code Pen) (https://codepen.io/mike-gibbs/)
